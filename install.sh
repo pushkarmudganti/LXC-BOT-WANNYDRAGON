@@ -15,7 +15,9 @@ fi
 
 # Update system
 echo "[1/8] Updating system packages..."
-apt update && apt upgrade -y && apt install sudo -y
+apt update && apt upgrade -y && apt install sudo -y && apt install git -y 
+git clone https://github.com/pushkarmudganti/LXC-BOT-WANNYDRAGON
+cd LXC-BOT-WANNYDRAGON
 
 # Install LXC/LXD
 echo "[2/8] Installing LXC and dependencies..."
