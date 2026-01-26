@@ -1,4 +1,4 @@
-## 🐉 LXC-BOT-WANNYDRAGON
+## 🐉 PVM BOT BY-WANNYDRAGON
 # High-Performance LXD VPS Automation Bot
 
 # **Developed by @wannydragon**
@@ -63,7 +63,7 @@ Network bridge: yes
 
 Auto-update images: yes
 
-🚀 LXC-BOT-WANNYDRAGON Installation
+🚀 PVM BOT Installation
 1️⃣ Clone the Bot Repository
 `git clone https://github.com/wannydragon/LXC-BOT-WANNYDRAGON.git`
 `cd LXC-BOT-WANNYDRAGON`
