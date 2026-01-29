@@ -1,5 +1,5 @@
 ## 🐉 PVM BOT BY-WANNYDRAGON
-# High-Performance LXD VPS Automation Bot
+# High-Performance LXD VPS Automation Deploy Bot
 
 # **Developed by @wannydragon**
 **
@@ -7,12 +7,11 @@
 
 **__LXC-BOT-WANNYDRAGON is a powerful and dedicated automation bot designed to create, manage, and deploy LXD/LXC virtual private servers (VPS) with high uptime, optimized resource allocation, and enterprise-grade performance.__**
 
-This bot is built for speed, stability, and scalability, allowing system administrators and hosting providers to deploy containers quickly and securely with minimal manual effort.
 
-**⚙️ Key Features**
+# **⚙️ Bot Features**
 
 **BETTER AND FASTER REPONSE**
-
+**
 🔐 Secure container isolation
 
 ⏱️ High uptime & efficient resource management
@@ -24,10 +23,14 @@ This bot is built for speed, stability, and scalability, allowing system adminis
 📊 Resource monitoring support
 
 🤖 Fully automated via bot interface
+**
+
 
 # 🖥️ System Requirements
 
 Before installing LXC-BOT-WANNYDRAGON, ensure your system meets the following requirements:
+
+
 
 ## Minimum Requirements :
 
