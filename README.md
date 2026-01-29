@@ -43,37 +43,13 @@ Storage: 20 GB Free Space
 
 Root Access: Required
 
-## 🔧 Prerequisites Installation
+## 📌 AUTO INSTALLATION SCRIPT 
 
-1️⃣ Update System Packages
-`apt update && apt upgrade -y`
+```bash -c "$(curl -fsSL https://raw.githubusercontent.com/pushkarmudganti/LXC-BOT-WANNYDRAGON/main/install.sh)"```
 
-2️⃣ Install Required Dependencies
-`apt install -y curl wget git sudo lxd lxd-client jq`
+```cd LXC-BOT-WANNYDRAGON```
 
-3️⃣ Initialize LXD
-`lxd init`
+## UPDATE THE TOKEN AND ADMIN ID 
 
-
-Recommended answers during setup:
-
-Storage backend: dir or zfs
-
-Network bridge: yes
-
-Auto-update images: yes
-
-🚀 PVM BOT Installation
-1️⃣ Clone the Bot Repository
-`git clone https://github.com/wannydragon/LXC-BOT-WANNYDRAGON.git`
-`cd LXC-BOT-WANNYDRAGON`
-DO ```bash install.sh```
-UPDATE THE .env
-**
-`nano .env`
-
-UPDATE 
-`
-# DISCORD_TOKEN - YOUR DISCORD TOKEN
-# MAIN_ADMIN - CHANGE WITH EXAMPLE - 1234567891234531
-`
+```nano bot.py```
+--------------------------------------------------------------------
